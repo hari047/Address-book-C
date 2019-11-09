@@ -1,4 +1,4 @@
-Address-book-C
+Address-book - C++
 
 •An address book that illustrates the principles of Object-Oriented Programming. The address book can create, search, display, modify and delete entries users make into the address book.   
 
