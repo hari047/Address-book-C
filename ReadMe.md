@@ -1,8 +1,11 @@
-# Address-book - C++
 
-###  • An address book that illustrates the principles of Object-Oriented Programming. The address book can create, search, display, modify and delete entries users make into the address book.   
+<div align="center">
+ <h1> Address Book Using C++ </h1>
+  <img width="500" height="500" alt="Address_Book" src="https://github.com/user-attachments/assets/59f1cb77-11b2-4b26-8482-ad3c4e7c56be" />
+</div>
 
-###  • Data was allocated into and extracted from files. Implemented a search functionality for the address book, later upgraded by adding the most searched feature.
+- An address book that illustrates the principles of Object-Oriented Programming. The address book can create, search, display, modify and delete entries users make into the address book.  
+- Data was allocated into and extracted from files. Implemented a search functionality for the address book, later upgraded by adding the most searched feature.
 
  This Project was implemented as a degree course project and cannot be used elsewhere for any other purposes.<br/>
  This is just a sample of the source code to the project.<br/>
